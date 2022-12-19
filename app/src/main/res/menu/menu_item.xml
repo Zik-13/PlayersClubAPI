@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/back_item"
+        android:title="Searth"
+        android:icon="@android:drawable/ic_menu_revert"
+        app:showAsAction="ifRoom|never"></item>
+    <item
+        android:id="@+id/delet_item"
+        android:title="Searth"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="ifRoom|never"></item>
+    <item
+        android:id="@+id/save_item"
+        android:title="add"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="ifRoom|never"></item>
+</menu>
