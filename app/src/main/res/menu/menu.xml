@@ -4,17 +4,20 @@
     <item
         android:id="@+id/action_search"
         android:title="Searth"
-        android:icon="@android:drawable/ic_menu_search"
+        android:icon="@drawable/ic_baseline_sort_24"
         app:actionViewClass="androidx.appcompat.widget.SearchView"
+        android:scaleType="centerCrop"
         app:showAsAction="ifRoom|collapseActionView"></item>
     <item
         android:id="@+id/action_update"
         android:title="Searth"
-        android:icon="@android:drawable/ic_menu_rotate"
+        android:icon="@drawable/ic_baseline_refresh_24"
+        android:scaleType="centerCrop"
         app:showAsAction="ifRoom|never"></item>
     <item
         android:id="@+id/action_add"
         android:title="add"
-        android:icon="@android:drawable/ic_menu_add"
+        android:icon="@drawable/ic_baseline_create_24"
+        android:scaleType="centerCrop"
         app:showAsAction="ifRoom|never"></item>
 </menu>

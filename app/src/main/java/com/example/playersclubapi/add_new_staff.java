@@ -138,7 +138,7 @@ public class add_new_staff extends AppCompatActivity {
         call.enqueue(new Callback<Staff>() {
             @Override
             public void onResponse(@NonNull Call<Staff> call, @NonNull Response<Staff> response) {
-                Toast.makeText(add_new_staff.this, "Данные добавлены",
+                Toast.makeText(add_new_staff.this, "Info update",
                         Toast.LENGTH_SHORT).show();
             }
 
