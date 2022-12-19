@@ -17,12 +17,13 @@
 
         <Spinner
             android:id="@+id/sort"
+            android:visibility="invisible"
             android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:layout_centerInParent="true"
-            android:contentDescription="afafa"
+            android:layout_height="0dp"
 
-            android:background="@drawable/black_border" />
+            android:layout_centerInParent="true"
+            android:background="@drawable/black_border"
+            android:contentDescription="afafa" />
 
 
     </RelativeLayout>
