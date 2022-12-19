@@ -12,7 +12,7 @@ What's new?
 >* Lack of drying alert
 >* Adding an empty user
 >* Entering characters in value for phone
->*? Perhaps I fixed the deletion without updating the list, it happened that you had to delete it twice so that the participant disappeared from the list.   
+>* ?Perhaps I fixed the deletion without updating the list, it happened that you had to delete it twice so that the participant disappeared from the list.   
 
 <br></br>
 ____
@@ -29,4 +29,4 @@ Players Club новое приложение с обновленным диза�
 >* Отсутсвие оповещения о соханение 
 >* Добавление пустого пользователя
 >* Ввод символов в значение для телефона
->* ? Возможно починил удаление без обновления списка, бывало такое что нужно удалять дважды, чтобы участник пропал из списка.
+>* ?Возможно починил удаление без обновления списка, бывало такое что нужно удалять дважды, чтобы участник пропал из списка.
